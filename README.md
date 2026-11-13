@@ -9,3 +9,4 @@ Labs
 - [Lab_2_1_Silver](https://colab.research.google.com/drive/1ivPe44RbK_mZlGbsn1m8m0ANiAx_HlNs?usp=sharing)
 - [Lab_2_2_Gold](https://colab.research.google.com/drive/1nhu-1IO59v5Uo6t70K-86WzihzvSZz4Q?usp=sharing)
 - [Lab_2_3_ELT_dbt](https://colab.research.google.com/drive/1dw_sxclhckJfwcag70yLudJ01jHJC-HK?usp=sharing)
+- [Lab_3_1_Airflow_1](https://colab.research.google.com/drive/164a4nRzc-x5YW5Tq0TLcL0FjOZlj5Vrt?usp=sharing)
